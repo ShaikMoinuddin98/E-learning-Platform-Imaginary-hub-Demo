@@ -1,5 +1,7 @@
 # E-learning-Platform-Imaginary-hub-Demo
-
+* Sharing All the Code is against Imaginary Hub's Policy . So If u Want to Understand More About our platform and want to review our code then you can contact me through
+* * Linkedin - https://www.linkedin.com/in/shaik-moinuddin-96a00b254/
+  * mail - smoinuddin103@gmail.com
 ## Demo Video
 
 
