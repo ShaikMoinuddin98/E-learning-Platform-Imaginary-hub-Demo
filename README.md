@@ -4,7 +4,7 @@
   * mail - smoinuddin103@gmail.com
 ## Demo Video
 
-### Hosted Link- https://imaginary-hub-lsdg.onrender.com/
+### Hosted Link ( takes time for initial Loading because of free hosting)- https://imaginary-hub-lsdg.onrender.com/
 
 https://github.com/ShaikMoinuddin98/E-learning-Platform-Imaginary-hub-Demo/assets/130903025/68bbf864-8f33-4392-9bb8-9755069bcf38
 
